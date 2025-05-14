@@ -42,7 +42,7 @@ const Header: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <Server className="h-8 w-8 text-purple-500" />
-            <span className="text-white font-bold text-xl">MTA Server</span>
+            <span className="text-white font-bold text-xl">⚜️ 𝐕𝐄̂𝐍𝐔𝐒 𝐑𝐏</span>
           </div>
 
           {/* Desktop Navigation */}

@@ -7,7 +7,7 @@ const HeroSection: React.FC = () => {
       id="home" 
       className="relative min-h-screen flex items-center justify-center bg-cover bg-center"
       style={{ 
-        backgroundImage: 'url(https://images.pexels.com/photos/4425157/pexels-photo-4425157.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)',
+        backgroundImage: 'url(https://imgs.search.brave.com/gyUhrSZn0wQuqCZhqQaH57H3BhtF7GXapUBt_jwevSI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93YWxs/cGFwZXJjYXQuY29t/L3cvZnVsbC8yLzUv/MS8yMTUxMjg5LTE5/MjB4MTIwMC1kZXNr/dG9wLWhkLWd0YS1z/YW4tYW5kcmVhcy1i/YWNrZ3JvdW5kLXBo/b3RvLmpwZw)',
         backgroundPosition: 'center',
         backgroundSize: 'cover'
       }}
@@ -46,7 +46,7 @@ const HeroSection: React.FC = () => {
         {/* Server IP */}
         <div className="mt-12 bg-gray-900/80 backdrop-blur-sm inline-block px-6 py-3 rounded-lg">
           <p className="text-gray-400 text-sm">Endereço do servidor:</p>
-          <p className="text-white font-mono text-xl">multiplayer.mtasa.com:22003</p>
+          <p className="text-white font-mono text-xl">mtasa://200.9.154.104:24715</p>
         </div>
       </div>
       

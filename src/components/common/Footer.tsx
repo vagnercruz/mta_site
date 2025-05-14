@@ -10,7 +10,7 @@ const Footer: React.FC = () => {
           <div className="col-span-1 md:col-span-1">
             <div className="flex items-center space-x-2 mb-4">
               <Server className="h-8 w-8 text-purple-500" />
-              <span className="text-white font-bold text-xl">MTA Server</span>
+              <span className="text-white font-bold text-xl">⚜️ 𝐕𝐄̂𝐍𝐔𝐒 𝐑𝐏</span>
             </div>
             <p className="text-gray-400 mb-4">
               O melhor servidor de MTA San Andreas do Brasil. Junte-se a nossa comunidade e viva aventuras incríveis em Los Santos.
@@ -77,7 +77,7 @@ const Footer: React.FC = () => {
             <h3 className="text-lg font-semibold text-white mb-4">Contato</h3>
             <p className="flex items-center text-gray-400 mb-2">
               <Mail className="mr-2 h-5 w-5" />
-              contato@mtaserver.com
+              venusrp@gmail.com
             </p>
             <p className="text-gray-400 mb-4">
               Discord: discord.gg/mtaserver
@@ -92,7 +92,7 @@ const Footer: React.FC = () => {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500">
-            &copy; {new Date().getFullYear()} MTA Server. Todos os direitos reservados.
+            &copy; {new Date().getFullYear()} VênusRP. Todos os direitos reservados.
           </p>
           <div className="mt-4 md:mt-0">
             <a href="#" className="text-gray-500 hover:text-white mr-4 transition-colors">Termos de Uso</a>

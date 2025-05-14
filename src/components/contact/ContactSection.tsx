@@ -131,7 +131,7 @@ const ContactSection: React.FC = () => {
                   </div>
                   <div className="ml-4">
                     <h4 className="text-white font-medium">Discord</h4>
-                    <p className="text-gray-400">discord.gg/mtaserver</p>
+                    <p className="text-gray-400">https://discord.gg/8zhaxafh</p>
                   </div>
                 </div>
                 
@@ -155,7 +155,7 @@ const ContactSection: React.FC = () => {
               <Button 
                 variant="outline" 
                 fullWidth
-                onClick={() => window.open('https://discord.gg/mtaserver', '_blank')}
+                onClick={() => window.open('https://discord.gg/8zhaxafh', '_blank')}
               >
                 Acessar Discord
               </Button>
